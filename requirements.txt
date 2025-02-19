@@ -1,0 +1,5 @@
+streamlit
+encryption
+numpy
+rembg
+Pillow
