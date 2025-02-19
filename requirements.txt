@@ -1,5 +1,5 @@
-streamlit
-encryption
-numpy
 rembg
-Pillow
+opencv-python
+numpy
+pillow
+streamlit
